@@ -14,11 +14,14 @@
 	"dependencies": {
 		"@modelcontextprotocol/sdk": "^1.11.4",
 		"agents": "^0.0.90",
-		"zod": "^3.25.16"
+		"zod": "^3.25.16",
+		"jira-client": "^8.2.2"
 	},
 	"devDependencies": {
 		"@biomejs/biome": "^1.9.4",
 		"typescript": "^5.8.3",
-		"wrangler": "^4.16.0"
+		"wrangler": "^4.16.0",
+		"@types/jira-client": "^7.1.9",
+		"@types/node": "^20.11.24"
 	}
 }
