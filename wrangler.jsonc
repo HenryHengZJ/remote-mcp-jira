@@ -22,6 +22,11 @@
 			}
 		]
 	},
+	"vars": {
+		"JIRA_HOST": "paddock.atlassian.net",
+		"JIRA_EMAIL": "your-email@example.com",
+		"JIRA_API_TOKEN": "your-api-token-here"
+	},
 	"observability": {
 		"enabled": true
 	}
